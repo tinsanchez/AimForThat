@@ -1,0 +1,59 @@
+
+/* Class = "UIButton"; normalTitle = "Volver al juego"; ObjectID = "0Ea-Wj-tNY"; */
+"0Ea-Wj-tNY.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Dispara al número:"; ObjectID = "1Zx-yR-hdY"; */
+"1Zx-yR-hdY.text" = "Shoot to number:";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "3EC-CN-59V"; */
+"3EC-CN-59V.text" = "0";
+
+/* Class = "UILabel"; text = "Ronda:"; ObjectID = "8bf-wu-91A"; */
+"8bf-wu-91A.text" = "Round:";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "Aqq-cW-twu"; */
+"Aqq-cW-twu.text" = "100";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "Eyy-1p-jUh"; */
+"Eyy-1p-jUh.text" = "100";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "KyW-ew-1ZA"; */
+"KyW-ew-1ZA.text" = "1";
+
+/* Class = "UILabel"; text = "Record:"; ObjectID = "Tz8-xp-geR"; */
+"Tz8-xp-geR.text" = "Record:";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Y0R-8e-wB8"; */
+"Y0R-8e-wB8.text" = "0";
+
+/* Class = "UILabel"; text = "Tiempo restante:"; ObjectID = "b55-fr-DP2"; */
+"b55-fr-DP2.text" = "Rest time:";
+
+/* Class = "UIButton"; normalTitle = "Volver a empezar"; ObjectID = "gHa-Qv-306"; */
+"gHa-Qv-306.normalTitle" = "Start again";
+
+/* Class = "UIButton"; normalTitle = "Dispara!"; ObjectID = "mbO-7B-Mlc"; */
+"mbO-7B-Mlc.normalTitle" = "Fire!";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "ns5-yh-Uei"; */
+"ns5-yh-Uei.text" = "100";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "tko-Cb-9KY"; */
+"tko-Cb-9KY.text" = "0";
+
+/* Class = "UILabel"; text = "Puntuación:"; ObjectID = "vxK-DH-V9p"; */
+"vxK-DH-V9p.text" = "Score:";
+
+/* Class = "UITextView"; text = "*** Bienvenidos a AimForThat***\n\nLa finalidad de este juego es aproximarse lo máximo posilbe al número que se muestra como objetivo, cuanto más cerca posiciones la mira, más puntos obtendrás.\n\nEste juego fue creado por Valentín Sánchez durante su aprencizaje mediante el Curso iOS 11 impartido por Juan Gabriel Gomila.\n\nA qué esperas para probar tus habilidades???!!!!!"; ObjectID = "wYq-jo-VZ2"; */
+"wYq-jo-VZ2.text" = "*** Welcome to AimForThat ***\n\nThe purpose of this game is to get as close as possible to the number shown as the target, the closer you look at it, the more points you will get.\n\nThis game was created by Valentín Sánchez during his learning through the iOS 11 Course taught by Juan Gabriel Gomila.\n\nWhat are you waiting to test your skills???!!!!!";
+
+
+
+
+
+
+
+
+
+
+
